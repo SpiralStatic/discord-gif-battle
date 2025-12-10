@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node .",
-    "update-commands": "node deploy-commands.js"
+    "update-commands": "node deploy-commands.js",
+    "delete-commands": "node delete-commands.js"
   },
   "repository": {
     "type": "git",
