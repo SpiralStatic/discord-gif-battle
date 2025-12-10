@@ -1,0 +1,22 @@
+{
+  "name": "discord-gif-battle",
+  "version": "1.0.0",
+  "description": "Compete and compare gifs against other people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiralStatic/discord-gif-battle.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Hannah Tsoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiralStatic/discord-gif-battle/issues"
+  },
+  "homepage": "https://github.com/SpiralStatic/discord-gif-battle#readme"
+}
